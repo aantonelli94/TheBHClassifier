@@ -18,6 +18,13 @@ The analysis relies on [rapster](https://github.com/Kkritos/Rapster) simulations
 
 ## Requirements
 
+```
+matplotlib==3.5.2
+numpy==1.21.5
+pandas==1.4.3
+scikit_learn==1.1.3
+seaborn==0.11.2
+```
 
 ## Report a bug
 
